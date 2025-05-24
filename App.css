@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f6fa;
+  color: #333;
+}
+
+.app {
+  font-size: 16px;
+}
