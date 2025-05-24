@@ -50,8 +50,7 @@ It replicates core UI/UX from the provided demo, including:
 
 ### 1. Clone the repo
 
-```bash
-git clone https://github.com/your-username/intercom-clone.git
+
 cd intercom-clone
 
 2. Install dependencies
